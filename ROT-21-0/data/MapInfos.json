@@ -1,7 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":1140,"scrollY":1058},
-{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":1,"scrollX":1252,"scrollY":874},
-{"id":3,"expanded":true,"name":"MAP003","order":3,"parentId":0,"scrollX":819,"scrollY":477.5},
-{"id":4,"expanded":false,"name":"Giardino della villa","order":4,"parentId":3,"scrollX":1401,"scrollY":970}
+null,
+null,
+{"id":3,"expanded":true,"name":"MAP003","order":1,"parentId":0,"scrollX":834.6666666666666,"scrollY":582.6666666666666},
+{"id":4,"expanded":true,"name":"Giardino della villa","order":2,"parentId":3,"scrollX":1252.8,"scrollY":777},
+{"id":5,"expanded":true,"name":"Atrio della villa","order":3,"parentId":4,"scrollX":1251.6,"scrollY":777},
+{"id":6,"expanded":false,"name":"Dormitorio","order":4,"parentId":5,"scrollX":1126.8,"scrollY":786.5999999999999}
 ]
